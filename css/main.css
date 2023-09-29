@@ -59,6 +59,7 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
   /* 1 */
   line-height: inherit;
   /* 2 */
@@ -669,6 +670,22 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(45 212 191 / var(--tw-bg-opacity));
 }
+
+.hover\:bg-grass:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(51 153 102 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-techOrange:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 153 0 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-coffee:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 102 51 / var(--tw-bg-opacity));
+}
+
 
 .hover\:text-blue-800:hover {
   --tw-text-opacity: 1;
