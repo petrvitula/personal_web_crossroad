@@ -12,6 +12,7 @@ module.exports = {
       colors: {
       neonBlue: "#2272FF",
       black: "#1D1D1",
+      teal: "#2dd4be",
       }
     },
   },
